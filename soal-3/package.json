@@ -1,0 +1,14 @@
+{
+  "name": "soal-3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "baginda isfa",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
