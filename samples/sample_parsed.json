@@ -1,0 +1,35 @@
+{
+  "date": "2024-10-23",
+  "origin": "KCS Karawang",
+  "items": [
+    {
+      "destinations": [
+        "Csa Cikupa",
+        "Rajeg"
+      ],
+      "volumeCbm": 45,
+      "unitCount": 1,
+      "poDate": null,
+      "notes": "(Gudang Bayur)"
+    },
+    {
+      "destinations": [
+        "Tuj Pekalongan"
+      ],
+      "volumeCbm": 46,
+      "unitCount": 2,
+      "poDate": null,
+      "notes": null
+    },
+    {
+      "destinations": [
+        "Csa Rajeg"
+      ],
+      "volumeCbm": 47,
+      "unitCount": 1,
+      "poDate": null,
+      "notes": null
+    }
+  ],
+  "safetyNote": "Pastikan Driver memakai (Sepatu Safety, Berpkaian rapi, tanda pengenal,Helm & Safety Vest)"
+}
